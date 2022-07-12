@@ -6,4 +6,13 @@
   "debug.console.fontSize": 18,
   "editor.tabSize": 4,
   "C_Cpp.errorSquiggles": "Enabled",
+  "files.associations": {
+    "*.vue": "vue",
+    "*.cjson": "jsonc",
+    "*.wxss": "css",
+    "*.wxs": "javascript",
+    "ostream": "cpp",
+    "fstream": "cpp",
+    "*.tcc": "cpp"
+  },
 }
