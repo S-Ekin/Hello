@@ -11,8 +11,10 @@
     "*.cjson": "jsonc",
     "*.wxss": "css",
     "*.wxs": "javascript",
+    "*.md": "markdown",
     "ostream": "cpp",
     "fstream": "cpp",
-    "*.tcc": "cpp"
+    "*.tcc": "cpp",
+    "iostream": "cpp"
   },
 }
